@@ -1,2 +1,2 @@
 # gprsm
-Gaussian Process Regression using Spectral Mixture in GPflow
+Gaussian Process Regression using Spectral Mixture Kernel in GPflow
